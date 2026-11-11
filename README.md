@@ -9,7 +9,7 @@
 
 Hi, I'm Idong.
 
-I'm a data science student who likes figuring out what a business actually needs before I touch the data. I grew up around farming in Nigeria, worked as a floor hand on a well servicing rig in rural Manitoba, and spent time on tech support lines, so I tend to start with the person who has to use the answer.
+I'm a data science student who likes figuring out what a business actually needs before I touch the data.
 
 I have worked as a Maps Analyst at TELUS. Before that I handled the reporting side for a small e-commerce business which included working with Meta and Google Ads data, dashboards, and sales tracking across Amazon, Shopify and Etsy.
 
