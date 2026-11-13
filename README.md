@@ -9,7 +9,7 @@
 
 Hi, I'm Idong.
 
-I'm a data science student who likes figuring out what business need from looking at data.
+I'm a data science student who likes figuring out what businesses need from looking at data.
 
 I have worked as a Maps Analyst at TELUS and before that I handled the reporting side for a small e-commerce business which included working with Meta and Google Ads data, dashboards, while tracking their sales, gross revenue and profit margins across 3 different independednt seller platforms.
 
